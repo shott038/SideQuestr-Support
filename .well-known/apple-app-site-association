@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "94788NHNPL.com.sidequestr.app",
+        "paths": [ "/invite/*" ]
+      }
+    ]
+  }
+}
